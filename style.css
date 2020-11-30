@@ -1,0 +1,14 @@
+textarea {
+  display: block;
+}
+
+label {
+  font-weight: bold;
+}
+
+/* body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+} */
